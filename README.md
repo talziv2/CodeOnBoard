@@ -22,8 +22,9 @@ CodeOnBoard aims to reduce:
 ## Initial Target Repositories
 The following repositories are used for scoping, experimentation, and demo:
 
-- **FastAPI** – large, modular Python framework
-- **Requests** – mature and compact Python library
+- **FastAPI** – large, modular Python framework (https://github.com/fastapi/fastapi)
+- 
+- **Requests** – mature and compact Python library (https://github.com/psf/requests)
 
 These provide a contrast between complex and lightweight architectures.
 
